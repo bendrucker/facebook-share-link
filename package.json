@@ -1,7 +1,7 @@
 {
   "name": "facebook-share-link",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Generate Facebook sharing links",
   "license": "MIT",
   "repository": "bendrucker/facebook-share-link",
