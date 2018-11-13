@@ -1,4 +1,4 @@
-# facebook-share-link [![Build Status](https://travis-ci.org/bendrucker/facebook-share-link.svg?branch=master)](https://travis-ci.org/bendrucker/facebook-share-link)
+# facebook-share-link [![Build Status](https://travis-ci.org/bendrucker/facebook-share-link.svg?branch=master)](https://travis-ci.org/bendrucker/facebook-share-link) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/facebook-share-link.svg)](https://greenkeeper.io/)
 
 > Generate Facebook sharing links
 
